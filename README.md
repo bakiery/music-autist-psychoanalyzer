@@ -23,7 +23,7 @@ No HR-safe answers. No LinkedIn diversity-washing. Just savage, data-driven trut
 | Feature                | Description                                                             |
 |------------------------|-------------------------------------------------------------------------|
 | Brutal Psychoanalysis  | No-PC, clinical, meme-tier roast based on your raw music taste.         |
-| Demographic Guessing   | Predicts age, gender, sexuality, neurotype, social status, and more.    |
+| Demographic Guessing   | Predicts age, gender, LGBTQ+, neurotype, social status, and more.    |
 | Online Subculture Map  | Identifies your likely Discord servers, meme diet, and forum habits.    |
 | “Mog” Detection        | Tells you exactly who you mog, who mogs you, and why.                   |
 | Customizable Models    | Works with GPT-OSS 20B (or other Ollama models—see warnings below).     |
@@ -36,7 +36,7 @@ No HR-safe answers. No LinkedIn diversity-washing. Just savage, data-driven trut
 You dump your music taste (Spotify/Last.fm top tracks, genres, playlists, scrobbles, etc).  
 Example: For your raw Spotify stats (last 1/6/12 months), use [FavoriteMusic.Guru](http://favoritemusic.guru).
 
-The model **diagnoses you**:  
+The model **predicts**:  
 - Age, gender, neurotype, likelihood of LGBTQ+
 - DSM-5 traits (autism/BPD/etc), political leanings
 - MBTI/Socionics/Enneagram, IRL and online archetype
